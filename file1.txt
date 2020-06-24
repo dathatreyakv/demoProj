@@ -1,2 +1,2 @@
 sample file:wq
-
+adding new line
